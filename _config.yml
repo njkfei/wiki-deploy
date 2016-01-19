@@ -90,6 +90,7 @@ duoshuo_shortname: niejinping
 Plugins:
 - hexo-generator-feed
 - hexo-generator-sitemap
+- hexo-generator-baidusitemap
 
 #Feed Atom
 feed:
